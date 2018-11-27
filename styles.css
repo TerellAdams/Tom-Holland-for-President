@@ -1,0 +1,23 @@
+    img{
+    height: 100px;
+    background-color: powderblue;
+}
+#header{
+background-color:red;
+}
+#SPIDERMAN{
+background-color:blue;
+}
+#HERO{
+ background-color:red;   
+}
+ div {
+    width: 300px;
+    border: 25px solid black;
+    padding: 25px;
+    margin: 25px;
+}
+.VOTE{
+display:flex;
+justify-content: center;
+}
